@@ -1,4 +1,4 @@
-Hi 👋 My name is Edis Reyhan!
+Hi there, I'm Edis👋 
 
 I've been learning to code for about 3 years - since my bachelor's has been started. I have a passion for backend development with java and I'm focused on java web technologies!
 
