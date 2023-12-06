@@ -3,7 +3,7 @@ Hi there, I'm Edis👋
 I've been learning to code for about 3 years - since my bachelor's has been started. I have a passion for backend development with java and I'm focused on java web technologies!
 
 🌍  I'm based in Varna  
-✉️  You can contact me at [edy\_l20@abv.bg](mailto:edy_l20@abv.bg)  
+✉️  You can contact me at [edy.ggl20@gmail.com(mailto:edy.ggl20@gmail.com)  
 🧠  I'm learning Spring Framework   
 🤝  I'm open to collaborating on interesting projects 
 
