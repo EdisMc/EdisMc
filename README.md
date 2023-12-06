@@ -4,6 +4,7 @@ I've been learning to code for about 3 years - since my bachelor's has been star
 
 🌍  I'm based in Varna  
 ✉️  You can contact me at edy.ggl20@gmail.com
+
 🧠  I'm learning Spring Framework   
 🤝  I'm open to collaborating on interesting projects 
 
