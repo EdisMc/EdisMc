@@ -1,11 +1,10 @@
 Hi there, I'm Edis👋 
 
-I've been learning to code for about 3 years - since my bachelor's has been started. I have a passion for backend development with java and I'm focused on java web technologies!
+I've been learning to code since my bachelor's has been started (Sept.,2019). Throughout my academic journey, I have completed several projects, which have allowed me to gain knowledge and skills in various programming/markup languages and frameworks including Java/Spring Boot, C#/.NET, PHP/Symfony, HTML, CSS, JavaScript/Angular, Python.
 
 🌍  I'm based in Varna  
 ✉️  You can contact me at edy.ggl20@gmail.com
-
-🧠  I'm learning Spring Framework   
+  
 🤝  I'm open to collaborating on interesting projects 
 
 ### Skills
